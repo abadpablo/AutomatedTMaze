@@ -6,7 +6,8 @@ In the Blender files folder you can find the original Blender files in case you 
 
 In the Stl files folder you can find the STL files ready for printing in a filament 3D printer machine.
 
-In the Autodesk fusion files you can find the Eagle/Autodesk fusion files. Inside it there is a .zip folder ("Maze.zip") that is the one you want to upload into the PCBwway webpage (https://www.pcbway.es/) for fabrication.
+In the Autodesk fusion files you can find the Eagle/Autodesk fusion files. Inside it there is a .zip folder ("Maze.zip") that is the one you want to upload into the PCBway webpage (https://www.pcbway.es/) for fabrication.
+When receiving the PCB file, 
 
 
 ## Components
